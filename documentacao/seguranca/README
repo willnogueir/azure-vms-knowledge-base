@@ -1,0 +1,32 @@
+# 🔐 Diretório: Segurança e Identidade no Azure
+
+Este diretório contém materiais de referência e estudo relacionados à **segurança baseada em identidade** na nuvem Microsoft Azure. São abordados temas essenciais como autenticação, autorização, Microsoft Entra ID, Domain Services, acesso condicional e modelos de defesa em profundidade.
+
+---
+
+## 📄 Conteúdo disponível
+
+| Arquivo                     | Descrição |
+|-----------------------------|-----------|
+| `identidade-e-acesso.md`    | Explica os fundamentos de segurança no Azure com foco em identidade e acesso. Detalha os serviços do Microsoft Entra ID, métodos de autenticação (MFA, FIDO2, certificados), controle de acesso baseado em função (RBAC), políticas de acesso condicional, além da arquitetura em camadas proposta pela Microsoft para proteção total. Ideal para arquitetos de soluções, administradores de identidade e profissionais de segurança em nuvem. |
+
+---
+
+## ✅ Tópicos abordados no material
+
+- Microsoft Entra ID (Azure AD)
+- Domain Services (Azure AD DS)
+- Métodos de autenticação (MFA, senha, smartcard, FIDO2)
+- Autorização e RBAC (Role-Based Access Control)
+- Políticas de acesso condicional
+- Modelo de segurança em camadas (Defesa em profundidade)
+- Revisão geral de identidade e segurança
+
+---
+
+## 🎯 Público-alvo
+
+- Profissionais de segurança e governança
+- Administradores de identidade e acesso
+- Equipes de cloud e infraestrutura
+- Estudantes de certificações Azure (AZ-104, AZ-500)
