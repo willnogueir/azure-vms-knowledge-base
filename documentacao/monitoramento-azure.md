@@ -1,6 +1,6 @@
 # Ferramentas de Monitoramento no Azure
 
-Este documento traz um resumo didático e detalhado das principais ferramentas de monitoramento do Azure, fundamentais para a certificação AZ-900. Apresenta conceitos, funcionalidades, benefícios e exemplos práticos para cada ferramenta.
+Este documento traz um resumo didático e detalhado das principais ferramentas de monitoramento do Azure. Apresenta conceitos, funcionalidades, benefícios e exemplos práticos para cada ferramenta.
 
 ---
 
